@@ -39,10 +39,4 @@ AgentShield AI Defense, dijital varlıklarınızı yapay zeka kaynaklı tehditle
 * İYİLEŞTİRME: Daha fazla görünmez Unicode karakteri temizleniyor (U+00AD, U+2060 eklendi).
 * DÜZELTME: Bot listesinde virgül sonrası boşluklar otomatik temizleniyor.
 
-= 1.1.0 =
-* İYİLEŞTİRME: Filigran obfuscation güçlendirildi.
-* İYİLEŞTİRME: Tuzak yönlendirmesi template_redirect'e alındı.
-* İYİLEŞTİRME: Bot engelleme admin'de devre dışı bırakıldı.
 
-= 1.0.0 =
-* İlk sürüm.
